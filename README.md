@@ -2,7 +2,7 @@
 
 **java** 8 or later
 
-**build** `sbt clean cleanFiles compile`
+**build** `sbt clean cleanFiles update compile`
 
 **run** `sbt run`
 
